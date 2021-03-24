@@ -1,0 +1,6 @@
+pnt dep, pnt arr, cost
+pnt1, 1, 1
+pnt1, 2, 1
+pnt2, 1, 1
+pnt2, 2, 1
+1, 2, 10
